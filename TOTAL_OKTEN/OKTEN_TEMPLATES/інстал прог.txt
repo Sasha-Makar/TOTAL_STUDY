@@ -1,0 +1,20 @@
+
+http://bigbird.space:30823
+
+https://youtube.com/playlist?list=PLY1sAemBLA5zB3eDx6kxElJqGCQW_J9V5 - плейлист с установками.
+Для тех, у кого линукс. я отдельно пришлю актуальные скрипты и видосики. хотя если у вас линукс ,уверен вы и без меня справиьтесь.
+1. WebStorm - https://www.jetbrains.com/ru-ru/webstorm/download/
+В ней вы будете кодить. почти до последнего. Она платная. лицензию мы дадим (после того, как вы используете триальный 30 дневный период)
+2.node.js - https://nodejs.org/uk/download/
+Ставим только LTS версию. Текущая актуальная версия 14.17.6. Она загрузиться по умолчанию
+3. MySQL Server - Это сервер баз данных. https://dev.mysql.com/downloads/mysql/ - пока загрузите и все, не устанавливайте. Я запишу  актуальное видео про установку, ибо в новых версия произошли некоторые изменения в процессе уствновки. Или можете не ждать и найти интсрукцию с установкой самостоятельно.
+4. MySQL Workbench - Программа для манипуляции предыдущей программой (MySQL Server) https://dev.mysql.com/downloads/workbench/
+или можно использовать вот это - https://dev.mysql.com/downloads/installer/ - это installer всего и сразу
+5. MongoDB - https://www.mongodb.com/try/download/community . Тоже база данных,но другого типа
+6. MongoDB Compass  - https://www.mongodb.com/try/download/compass . Программа для управления бд из п5.
+7. Для владельцев Mac . 
+Homebrew- https://brew.sh/index_uk
+или если коротко, то вставить следующую строку в terminal и нажать энтер.
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+8. Git SCM - https://git-scm.com/downloads - это гит, который вы будете использовать постоянно от начала и до конца
+9. Регистрируемся на сайте github.com и подтверждаем аккаунт на почте (иначе рабоатть не будет).
