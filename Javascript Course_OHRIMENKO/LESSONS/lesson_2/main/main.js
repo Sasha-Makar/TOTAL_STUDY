@@ -1,9 +1,4 @@
-// alert(22);
-console.log(22);
+console.log('hello world');
 
 
-let x = document.querySelector('p');
-// console.log(x);
-x.innerHTML = 'Hello Sasha';
-
-// window.alert('hey');
+alert('hello world' + '\n' + 'fff');
